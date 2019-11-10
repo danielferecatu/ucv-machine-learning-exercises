@@ -2,6 +2,13 @@ x = c(7.4, 9.3, 5, 12)
 y = c(-7.3, 2, 9, -4.9)
 v = 2*x + 3*y + 1
 
+print("Vector x:")
+print(x)
+print("Vector y:")
+print(y)
+print("Vector v:")
+print(v)
+
 lv = x == 8
 print("Logical vector comparing elements of x with 8:")
 print(lv)

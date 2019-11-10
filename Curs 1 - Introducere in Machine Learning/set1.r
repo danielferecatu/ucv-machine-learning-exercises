@@ -1,6 +1,11 @@
 x = c(7.4, 9.3, 5, 12)
 y = c(-7.3, 2, 9, -4.9)
 
+print("Vector x:")
+print(x)
+print("Vector y:")
+print(y)
+
 v = 2*x + 3*y + 1
 print("Formula 2*x + 3*y + 1")
 print(v)
