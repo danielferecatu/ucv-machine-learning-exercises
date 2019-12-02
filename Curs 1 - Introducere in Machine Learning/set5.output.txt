@@ -1,0 +1,126 @@
+[1] "First list:"
+$`last name`
+[1] "Popescu"
+
+$`first name`
+[1] "Iulian"
+
+$`birth year`
+[1] 1996
+
+$grades
+[1] 8.3 9.1
+
+[1] "Second list:"
+$`last name`
+[1] "Ionescu"
+
+$`first name`
+[1] "Vlad"
+
+$`birth year`
+[1] 1997
+
+$grades
+[1] 9.6 9.9
+
+[1] "First list after update:"
+$`last name`
+[1] "Popescu"
+
+$`first name`
+[1] "Iulian"
+
+$`birth year`
+[1] 1996
+
+$grades
+[1] 8.3 9.1
+
+$company
+[1] "Google"
+
+[1] "Second list after update:"
+$`last name`
+[1] "Ionescu"
+
+$`first name`
+[1] "Vlad"
+
+$`birth year`
+[1] 1997
+
+$grades
+[1] 9.6 9.9
+
+$company
+[1] "Microsoft"
+
+[1] "First list merged with second list:"
+$`last name`
+[1] "Popescu"
+
+$`first name`
+[1] "Iulian"
+
+$`birth year`
+[1] 1996
+
+$grades
+[1] 8.3 9.1
+
+$company
+[1] "Google"
+
+$`last name`
+[1] "Ionescu"
+
+$`first name`
+[1] "Vlad"
+
+$`birth year`
+[1] 1997
+
+$grades
+[1] 9.6 9.9
+
+$company
+[1] "Microsoft"
+
+[1] "First list after final grade calculation:"
+$`last name`
+[1] "Popescu"
+
+$`first name`
+[1] "Iulian"
+
+$`birth year`
+[1] 1996
+
+$grades
+[1] 8.3 9.1
+
+$company
+[1] "Google"
+
+$`final grade`
+[1] 8.7
+
+[1] "Second list after final grade calculation:"
+$`last name`
+[1] "Ionescu"
+
+$`first name`
+[1] "Vlad"
+
+$`birth year`
+[1] 1997
+
+$grades
+[1] 9.6 9.9
+
+$company
+[1] "Microsoft"
+
+$`final grade`
+[1] 9.75
